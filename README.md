@@ -1,7 +1,8 @@
 # Network Economic
 
 ## Nov, 2018
-- [ ] Incentivizing Device-to-Device Load Balancing for Cellular Networks: An Online Auction Design
+- [ ] Incentivizing Device-to-Device Load Balancing for Cellular Networks: An Online Auction Design [HERE](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7839907)
+
 
 ### Materials
 [Competitive analysis (online algorithm)](https://en.wikipedia.org/wiki/Competitive_analysis_(online_algorithm))
