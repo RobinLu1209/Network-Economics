@@ -5,7 +5,7 @@
 
 
 ### Materials
-[Competitive analysis (online algorithm)](https://en.wikipedia.org/wiki/Competitive_analysis_(online_algorithm))
+1. [Competitive analysis (online algorithm)](https://en.wikipedia.org/wiki/Competitive_analysis_(online_algorithm))
 > As in competitive analysis there is no assumptions on the stochastic modeling of future input, the online algorithm tries
 to compete against an adversarial input. Hence, the competitive algorithm might be conservative and not always can provide
 satisfactory results in practical scenarios. On the other hand, stochastic optimization approaches rely on the distribution of
