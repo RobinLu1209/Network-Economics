@@ -1,4 +1,4 @@
-# Network Economic
+# Network Economics
 
 ## Nov, 2018
 - [ ] PAPER: [Incentivizing Device-to-Device Load Balancing for Cellular Networks: An Online Auction Design](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7839907)
